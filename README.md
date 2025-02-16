@@ -35,10 +35,38 @@ Step-by-step video guides will be available to help users understand how to regi
 ---
 
 ## How It Works
-1. **User Registration:** Users create an account and provide basic business information.
-2. **Document List Generation:** The system generates a list of documents needed for their business type.
-3. **Document Tracking:** Users can track document progress and mark certifications as complete.
-4. **Additional Support:** Access chatbots, personal assistants, or video tutorials as needed.
+
+```plaintext
+                          Home
+                           |
+      -------------------------------------------------
+      |                                               |
+  Search Option                                Query Chat Box
+                                                   |
+      ---------------------------------------------
+      |                                           |
+   Category                              AI Chat Bot (Multi-language)
+      |
+  Sub Category
+      |
+     Scale
+      |
+     Area
+      |
+Generated Documents List
+      |
+   More Options
+      |
+Business Growth Analyzer
+      |
+Documents Checkbox
+      |
+Personal Assistant
+      |
+ITR Registration Helper
+      |
+Video Helper for Document Registration
+```
 
 ---
 
@@ -63,7 +91,6 @@ Step-by-step video guides will be available to help users understand how to regi
    npm start
    ```
 
-
 ---
 
 ## Contributing
@@ -71,8 +98,6 @@ We welcome contributions from the community. Please fork the repository and subm
 
 ---
 
-
 ## License
 This project is licensed under the MIT License.
-
 
