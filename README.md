@@ -1,6 +1,6 @@
 # One-Stop Business Registration Solution
 
-![Image](https://github.com/user-attachments/assets/e2b59607-2b0f-4a99-8884-a49d64e7d536)
+![Image](https://github.com/user-attachments/assets/f89d050c-b1fb-4f25-988f-510ce84d8c15)
 
 ## Project Overview
 
