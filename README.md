@@ -70,4 +70,7 @@ We welcome contributions from the community. Please fork the repository and subm
 ---
 
 
+## License
+This project is licensed under the MIT License.
+
 
