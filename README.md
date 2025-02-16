@@ -1,5 +1,7 @@
 # One-Stop Business Registration Solution
 
+![Image](https://github.com/user-attachments/assets/cfa5a52a-10da-42b2-9b67-c18b21721b5f)
+
 ## Project Overview
 
 Starting a business can be overwhelming due to the number of documents required for different certifications and approvals. Our solution simplifies this process by offering a one-step, one-stop business registration platform that generates a comprehensive list of documents tailored to the user's business type.
