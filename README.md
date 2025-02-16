@@ -1,5 +1,7 @@
 # One-Stop Business Registration Solution
 
+![Image](https://github.com/user-attachments/assets/e2b59607-2b0f-4a99-8884-a49d64e7d536)
+
 ## Project Overview
 
 Starting a business can be overwhelming due to the number of documents required for different certifications and approvals. Our solution simplifies this process by offering a one-step, one-stop business registration platform that generates a comprehensive list of documents tailored to the user's business type.
@@ -33,10 +35,30 @@ Step-by-step video guides will be available to help users understand how to regi
 ---
 
 ## How It Works
-1. **User Registration:** Users create an account and provide basic business information.
-2. **Document List Generation:** The system generates a list of documents needed for their business type.
-3. **Document Tracking:** Users can track document progress and mark certifications as complete.
-4. **Additional Support:** Access chatbots, personal assistants, or video tutorials as needed.
+
+```plaintext
+                          Home
+                           |
+      -------------------------------------------------
+      |                                               |
+  Search Option                                Query Chat Box
+                                                   |
+      -------------------------------------------------------------------------------------------
+      |                                           |                                             |
+   Category                              AI Chat Bot (Multi-language)                    other features
+      |                                                                                         |
+  Sub Category                                                                         Business Growth Analyzer
+      |                                                                                         |
+     Scale                                                                              Documents Checkbox  
+      |                                                                                         |
+     Area                                                                               Personal Assistant
+      |                                                                                         |
+Generated Documents List                                                             ITR Registration Helper   
+                                                                                                |
+                                                                               Video Helper for Document Registration
+                                                                                      
+
+```
 
 ---
 
@@ -61,7 +83,6 @@ Step-by-step video guides will be available to help users understand how to regi
    npm start
    ```
 
-
 ---
 
 ## Contributing
@@ -69,5 +90,6 @@ We welcome contributions from the community. Please fork the repository and subm
 
 ---
 
-
+## License
+This project is licensed under the MIT License.
 
