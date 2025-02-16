@@ -1,6 +1,6 @@
 # One-Stop Business Registration Solution
 
-![Image](https://github.com/user-attachments/assets/cfa5a52a-10da-42b2-9b67-c18b21721b5f)
+![Image](https://github.com/user-attachments/assets/e2b59607-2b0f-4a99-8884-a49d64e7d536)
 
 ## Project Overview
 
@@ -43,29 +43,21 @@ Step-by-step video guides will be available to help users understand how to regi
       |                                               |
   Search Option                                Query Chat Box
                                                    |
-      ---------------------------------------------
-      |                                           |
-   Category                              AI Chat Bot (Multi-language)
-      |
-  Sub Category
-      |
-     Scale
-      |
-     Area
-      |
-Generated Documents List
-      |
-   More Options
-      |
-Business Growth Analyzer
-      |
-Documents Checkbox
-      |
-Personal Assistant
-      |
-ITR Registration Helper
-      |
-Video Helper for Document Registration
+      -------------------------------------------------------------------------------------------
+      |                                           |                                             |
+   Category                              AI Chat Bot (Multi-language)                    other features
+      |                                                                                         |
+  Sub Category                                                                         Business Growth Analyzer
+      |                                                                                         |
+     Scale                                                                              Documents Checkbox  
+      |                                                                                         |
+     Area                                                                               Personal Assistant
+      |                                                                                         |
+Generated Documents List                                                             ITR Registration Helper   
+                                                                                                |
+                                                                               Video Helper for Document Registration
+                                                                                      
+
 ```
 
 ---
