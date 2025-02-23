@@ -45,7 +45,7 @@ Optional step-by-step video guides walk users through the document registration 
                                                    |
       -------------------------------------------------------------------------------------------
       |                                           |                                             |
-   Category                              AI Chat Bot (Multi-language)                    Other Features
+   Category                                  AI Chat Bot                                  Other Features
       |                                                                                         |
   Sub Category                                                                         Business Growth Analyzer
       |                                                                                         |
