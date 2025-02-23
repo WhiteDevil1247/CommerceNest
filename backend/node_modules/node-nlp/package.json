@@ -1,0 +1,62 @@
+{
+  "name": "node-nlp",
+  "version": "5.0.0-alpha.5",
+  "description": "Library for NLU (Natural Language Understanding) done in Node.js",
+  "author": {
+    "email": "opensource@axa.com",
+    "name": "Jesus Seijas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-group/nlp.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axa-group/nlp.js/issues"
+  },
+  "maintainers": [
+    {
+      "email": "opensource@axa.com",
+      "name": "Jesus Seijas"
+    }
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "keywords": [
+    "natural language processing",
+    "artifical intelligence",
+    "natural language understanding",
+    "natural language generation",
+    "NLP",
+    "NLU",
+    "NLG",
+    "sentiment analysis",
+    "classifier",
+    "logistic regression",
+    "Natural",
+    "entity extraction",
+    "named entity recognition",
+    "chatbot",
+    "bot"
+  ],
+  "dependencies": {
+    "@nlpjs/builtin-duckling": "^5.0.0-alpha.5",
+    "@nlpjs/builtin-microsoft": "^5.0.0-alpha.5",
+    "@nlpjs/core-loader": "^5.0.0-alpha.5",
+    "@nlpjs/emoji": "^5.0.0-alpha.5",
+    "@nlpjs/evaluator": "^5.0.0-alpha.5",
+    "@nlpjs/lang-all": "^5.0.0-alpha.5",
+    "@nlpjs/language": "^5.0.0-alpha.5",
+    "@nlpjs/neural": "^5.0.0-alpha.5",
+    "@nlpjs/nlg": "^5.0.0-alpha.5",
+    "@nlpjs/nlp": "^5.0.0-alpha.5",
+    "@nlpjs/nlu": "^5.0.0-alpha.5",
+    "@nlpjs/request": "^5.0.0-alpha.5",
+    "@nlpjs/sentiment": "^5.0.0-alpha.5",
+    "@nlpjs/similarity": "^5.0.0-alpha.5",
+    "@nlpjs/xtables": "^5.0.0-alpha.5"
+  },
+  "gitHead": "1c0352fc9f95853327a97b92cf9237914326064e"
+}
